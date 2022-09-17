@@ -1,6 +1,6 @@
 [
 	{
 		"action": "remove",
-		"files": ["LICENSE", "degit.json"]
+		"files": ["LICENSE"]
 	}
 ]
